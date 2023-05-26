@@ -1,0 +1,16 @@
+      1 .sh
+      1 .dat
+      5 .csv
+      1 .txt
+      1 .csv
+      2 .txt
+      1 .sam
+      1 .bam
+      1 .bai
+      1 .fastq
+      2 .gz
+      2 .pdf
+      3 .gz
+      2 .tsv
+      8 .txt
+      6 .png
